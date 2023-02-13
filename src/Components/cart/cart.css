@@ -1,0 +1,25 @@
+.divCart{
+    border:2px solid red;
+    border-radius: 10px;
+    margin:10px, 50px;
+    /*margin:20px;*/
+    width: 45%;
+    float:right;
+    display: block;
+}
+
+.btnAdd{
+    margin: 10px;
+    border-radius: 5px;
+}
+
+.btnAdd:hover{
+    background-color: black;
+    color:white;
+    cursor: pointer;
+}
+
+img, svg {
+   margin-right:10px;
+    font-size: 20px;
+}
